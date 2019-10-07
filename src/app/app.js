@@ -17,4 +17,3 @@ export const run = (alertService, componentService) => {
         }
     });
 };
-run(alertService, componentService);
