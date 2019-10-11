@@ -1,1 +1,1 @@
-alert('HI form vendr!!!');
+import 'bootstrap';
